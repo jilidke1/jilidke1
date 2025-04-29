@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jilidke1
 - 👀 you can call me dapi...
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently pusing
 - 💞️ Still beginner in codingg...
 - 📫 Orang indonesia
-- ⚡ Fun fact: Bangkai ikan tidak haram
+- anu
 
 <!---
 jilidke1/jilidke1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
